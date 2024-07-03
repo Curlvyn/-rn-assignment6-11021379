@@ -27,6 +27,9 @@ The app uses Local Storage (via AsyncStorage) to store selected items locally on
   - Offers "Remove from Cart" buttons.
  
     **Screenshots**
+    
 ![WhatsApp Image 2024-07-03 at 23 35 43](https://github.com/Curlvyn/rn-assignment6-11021379/assets/170081196/846fdff0-7b91-46c1-93e2-5faee5f5368e)
+
+
 ![WhatsApp Image 2024-07-03 at 23 35 43 (1)](https://github.com/Curlvyn/rn-assignment6-11021379/assets/170081196/889aa06a-6286-4cd8-8a25-588bd1380137)
 
