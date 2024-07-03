@@ -1,4 +1,4 @@
-# -rn-assignment6-11021379
+# rn-assignment6-11021379
 
 **Project Overview:**
 This React Native shopping cart app enables users to:
